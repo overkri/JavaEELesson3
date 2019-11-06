@@ -9,7 +9,6 @@ import java.util.Map;
 
 public class HashMapRealizationTest {
     HashMapRealization<Character, Integer> hash = new HashMapRealization();
-    private final int M = 16;
     HashMap<Character, Integer> controlMap = new HashMap<>();
 
 
